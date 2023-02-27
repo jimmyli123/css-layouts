@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+}
+
+#showCase {
+    
+    background-color: white;
+    border: solid 2px red;
+    width:400px;
+    
+}
+
+.inline {
+    display: block;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.grid { 
+    display: grid;
+}
