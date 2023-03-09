@@ -19,6 +19,14 @@
     display: flex;
 }
 
+.flexbox__button {
+    display: none;
+}
+
+#flexbox__button__div {
+    display: flex;
+}
+
 .grid { 
     display: grid;
 }
